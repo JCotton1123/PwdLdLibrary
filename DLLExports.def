@@ -1,0 +1,5 @@
+LIBRARY	PwdLdLibrary
+EXPORTS
+    InitializeChangeNotify		
+    PasswordChangeNotify		
+	PasswordFilter
